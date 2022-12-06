@@ -1,0 +1,91 @@
+.footer-main
+{
+    margin-top: 5%;
+    height: 3em;
+}
+.draggable
+{    
+    height: 52em;
+}
+
+.section-padding2
+{
+    padding-top: 70px;    
+    height: 40em;
+}
+#modulos{    
+}
+#funcional{    
+}
+.service-area h2{
+   
+
+}
+#cont{
+    margin-top: -50px;
+}
+#tit, .section-tittle h2 {
+    margin-top: -50px;
+    color: darkslategray;
+    font-size: 50px;
+}
+#caja1{    
+    height: 85%;
+    width: 370px;
+    background-color: rgb(22, 62, 89);
+}
+#caja2{    
+    height: 60%;
+    width: 370px;
+    background-color: rgba(41, 156, 41, 0.849);
+}
+.tit2{
+    font-size: 500px;
+}
+
+.centrar
+{
+    margin-top: -13%;
+}
+.centrar1
+{
+    margin-top: -18%;
+}
+.service-cap h4{
+    font-size: 50px;
+    color: beige;
+}
+.service-cap p{
+    color: beige;
+}
+#logo{
+    background-color: rgba(0, 255, 0, 0.562);
+    color: rgb(22, 62, 89);
+}
+#logo1{
+    background-color: rgb(37, 175, 37);
+    color: rgb(22, 62, 89);
+}
+#funcional{
+    background-color: #fff
+}
+#ventajas{
+    padding-top: 60px;      
+    background-color: rgb(236, 250, 255);;   
+}
+.container-fluid{
+    height: 23rem;
+}
+
+.dot-style{
+    height: 22rem;
+}
+.contact-title{
+    color: darkslategray;
+}
+.contact-section{
+    height: 26rem;
+}
+
+
+

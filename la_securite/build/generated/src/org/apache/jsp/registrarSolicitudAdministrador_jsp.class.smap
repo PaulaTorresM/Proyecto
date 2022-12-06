@@ -1,0 +1,35 @@
+SMAP
+registrarSolicitudAdministrador_jsp.java
+JSP
+*S JSP
+*F
++ 0 registrarSolicitudAdministrador.jsp
+registrarSolicitudAdministrador.jsp
++ 1 Sesiones.jsp
+Sesiones.jsp
+*L
+5,104:52
+5#1,14:156
+19,4:171
+22,2:175
+24,12:178
+35,4:190
+39:194,3
+40,9:197
+108#0,30:205
+138:235,3
+139:238
+140:239,3
+141:242
+142:243,3
+143:246
+144:247,3
+145,2:250
+146,2:252
+147,21:254
+167,4:275
+170:279
+171:280,6
+172:286,3
+173,128:289
+*E

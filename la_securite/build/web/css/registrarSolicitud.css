@@ -1,0 +1,189 @@
+@media screen and (min-width: 1024px){
+body{
+    background-color: #bdc3c7;
+       text-align: center;
+}
+
+nav{
+    background-color: #021B79;
+   border: -0.9px solid #000;
+     text-align: left;
+}
+h3{
+    margin-top: -8rem;
+    font-size: 5rem;
+}
+h2{
+
+    font-size: 1rem;
+}
+     
+input[type=text], select {
+  width: 17%;
+  height: 2rem;
+  padding: 7px 20px;
+  margin: 5px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+  text-align: center;
+
+}
+input[type=date], select {
+  width: 17%;
+    height: 2.3rem;
+  padding: 7px 20px;
+ margin: 5px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 16px;
+  text-align: center;
+
+}
+#uno{
+     background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50px;
+  text-align: center;
+}
+#dos{
+  background-color: #548afd; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50px;
+  text-align: center;
+}
+#tres{
+
+  background-color:#4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50px;
+  text-align: center;
+
+}
+#cuatro{
+     background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50px;
+  text-align: center;
+}
+
+a{
+      text-decoration: none;
+      color: white
+}
+}
+
+
+@media screen and (min-width: 320px) and (max-width: 1023px){
+    body{
+    background-color: #bdc3c7;
+       text-align: center;
+}
+
+h3{
+    margin-top: -8rem;
+    font-size: 5rem;
+}
+h2{
+   margin-top: 1rem;
+    font-size: 1rem;
+}
+.alerta{
+    margin-top: 5rem;
+    height: 18rem;
+    font-size: 3rem;
+}
+input[type=text], select {
+  width: 65%;
+  height: 5%;
+  padding: 7px 20px;
+  margin: 6px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  text-align: center;
+    font-size: 2rem;
+}
+input[type=date], select {
+  width: 65%;
+  height: 5%;
+  padding: 7px 20px;
+  margin: 6px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  font-size: 2rem;
+}
+#uno{
+     background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 2rem;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50px;
+  width: 12rem;
+  height: 8rem;
+}
+#dos{
+     background-color: #2952FB; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 2rem;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50px;
+  width: 12rem;
+  height: 8rem;
+}
+a{
+      text-decoration: none;
+      color: #ffffff
+}
+}

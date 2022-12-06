@@ -1,0 +1,25 @@
+SMAP
+registrarEquipo_jsp.java
+JSP
+*S JSP
+*F
++ 0 registrarEquipo.jsp
+registrarEquipo.jsp
++ 1 Sesiones.jsp
+Sesiones.jsp
+*L
+5,5:50
+5#1,12:54
+17,4:67
+20,2:71
+22,12:74
+33,4:86
+37:90,3
+38,9:93
+9#0,28:101
+37:130,2
+38:132,3
+39:135
+40,3:136,3
+43,3:145
+*E
