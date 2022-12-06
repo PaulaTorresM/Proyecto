@@ -92,7 +92,7 @@
                                     <h1 data-animation="fadeInUp" data-delay=".6s" style=" margin-top: -59px;
                                     color: darkslategray;
                                     font-size: 50px;">Administra
-                                        solicitudes de la manera más segura.</h1>
+                                        solicitudes de la manera mÃ¡s segura.</h1>
                                     <p data-animation="fadeInUp" data-delay=".8s" style="font-size: 1.2rem;">Â¡Bienvenido
                                         a Insave! El sofware mÃ¡s seguro, podras crear, gestionar contratos y acuerdos</p>
                                     <!-- Slider btn -->
@@ -274,7 +274,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div id="caja2" class="services-caption active text-center mb-30">                            
                             <div class="service-cap" id="tit3">
-                                <h4   class="centrar1"><a href="#">Gestionn de Usuarios</a></h4>
+                                <h4   class="centrar1"><a href="#">Gestion de Usuarios</a></h4>
                                 <p></p>
                             </div>
                         </div>
@@ -337,7 +337,7 @@
                                     </div>
                                     <div class="what-cap">
                                         <h4><a href="#">INSAVE, seguridad</a></h4>
-                                        <p>El sistema más seguro para su empresa, ya que contamos con medidas de seguridad profesionales.</p>
+                                        <p>El sistema mï¿½s seguro para su empresa, ya que contamos con medidas de seguridad profesionales.</p>
                                     </div>
                                 </div>
                             
